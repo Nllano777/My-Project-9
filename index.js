@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("./utils/generateMarkdown.js");
+const generateMarkdown = require("../My-Project-9/generateMarkdown");
 console.log("This is a Functional README generator. To continue please follow the steps below:")
 
 //create an array of questions for user input
