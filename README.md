@@ -27,7 +27,7 @@ apllication that helps developers create a professional Readme for projects.
 
 ## Link 
 
-https://github.com/Nllano777/ReadmePro
+https://www.youtube.com/watch?v=n1-Ozsa1ZCI
 
 ---
 
